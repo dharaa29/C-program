@@ -1,0 +1,18 @@
+Given two strings text and pattern find the first occurrence of str1 in str2 if found print it’s index if not found print -1
+
+Input Format
+
+Input: str1 = "takeuforward" str2 = “forward”
+
+Constraints
+
+No Constraints
+
+Output Format
+
+Output: 5 Explanation: "Forward" is present in the 5th index in "takeuforward"
+
+Sample Input 0
+
+takeuforward
+forward
